@@ -38,16 +38,15 @@ export default function Home() {
   ]
 
   const galleryImages = [
-    "https://images.unsplash.com/photo-1599351431202-6e0c06e7610d?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1534353436294-0dbd4bdac845?q=80&w=800&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1621605815971-fbc98d665033?q=80&w=800&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1622286342621-4bd786c2447c?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1503951914875-452162b7f30a?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1593702295094-aea8c5c13d99?q=80&w=800&auto=format&fit=crop",
   ]
 
   const schedule = [
     { day: "Lunes - Viernes", hours: "10:00 - 14:00 | 17:00 - 21:00" },
-    { day: "Sábado", hours: "10:00 - 14:00" },
-    { day: "Domingo", hours: "Cerrado" },
+    { day: "Sábado - Domingo", hours: "Cerrado" },
   ]
 
   const fadeInUp = {
